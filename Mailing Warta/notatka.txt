@@ -1,0 +1,9 @@
+- w headerze szerokość td sprecyzowana w px
+- w headingach sekcji pomiedzy iconami padding nie jako img
+- w sekcji team valign top na tekst i avatar
+- valign wszedzie gdzie sa 2 kolumny obok siebie
+- w sekcji news wywalic row w tabeli z numerem newsa, valign top na tabele
+- przy img sprawdzic reguly display block
+- logo bez overpaddinga na header
+- dodac tabele na 100% width zawierajaca newsletter( zinnym tlem)
+- usestymatyzowac przerwy i komentarze w HTML
